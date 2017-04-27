@@ -8,13 +8,6 @@ public class TestEgits {
 		System.out.println("first git");
 		System.out.println("first git");
 		System.out.println("first git");
-		System.out.println("first git");
-		System.out.println("first git");
-		System.out.println("first git");
-		System.out.println("first git");
-		System.out.println("first git");
-		System.out.println("first git");
-		System.out.println("first git");
 
 
 	}
